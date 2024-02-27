@@ -2,7 +2,7 @@
 
 namespace SocialMediaSite.Models
 {
-    public class User
+    public class Profile
     {
         [Key]
         public int Id { get; set; }
